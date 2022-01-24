@@ -30,7 +30,7 @@ Nienumerowana:
     - Zagnieżdżony element 2
 - Element 3
 
-```
+```py
 for i in range(10):
     print("Tu jest kawałek kodu Pythona")
 
