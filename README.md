@@ -40,4 +40,5 @@ print("Koniec")
 W powyższym kodzie użyłem funkcji `print`, która wypisuje tekst na ekran.
 
 W pełni prawdziwe logo JavaScript:
+
 ![Logo Javy z napisem JavaScript](javascript.svg)
