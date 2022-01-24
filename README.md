@@ -30,10 +30,12 @@ Nienumerowana:
     - Zagnieżdżony element 2
 - Element 3
 
-    for i in range(10):
-        print("Tu jest kawałek kodu Pythona")
-    
-    print("Koniec")
+```
+for i in range(10):
+    print("Tu jest kawałek kodu Pythona")
+
+print("Koniec")
+```
 
 W powyższym kodzie użyłem funkcji `print`, która wypisuje tekst na ekran.
 
